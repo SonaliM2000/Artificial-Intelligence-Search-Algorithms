@@ -1,4 +1,5 @@
-# Artificial-Intelligence-Search-Algorithms
+# Artificial-Intelligence-Search-Pacman project
+
 
 Introduction
 Welcome
